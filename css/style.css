@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #E4EFE7;
+}
+h1{
+    font-size: 6rem;
+    font-family: 'Tangerine', cursive;
+    padding: 0 5%;
+}
+
+.btn{
+    width: 180px;
+    height: 180px;
+    margin: 2rem;
+    border: 5px solid #b1e4be;
+    border-radius: 10%;
+    color: rgb(2, 7, 4);
+    font-weight: 900;
+    font-family: 'Tangerine', cursive;
+    margin-bottom: 20px;
+   padding-top: 100px;
+   font-size: 2rem;
+}
+.cards{
+    padding: 1%;
+}
+
+.giraffe{
+    background-image: url("../images/giraffe.png");
+    background-size: 180px;
+    background-repeat: no-repeat;
+ }
+ .elephant{
+     background-image: url("../images/elephant.png");
+     background-size: 260px;
+    background-repeat: no-repeat;
+ }
+ .fox{
+     background-image: url("../images/fox.webp");
+     background-size: 200px;
+     background-repeat: no-repeat;
+    
+ }
+ .tiger{
+    background-image: url("../images/tiger.png");
+    background-size: 230px;
+   background-repeat: no-repeat;
+}
+.gorilla{
+    background-image: url("../images/gorilla.png");
+    background-size:230px;
+   background-repeat: no-repeat;
+}
+a{
+    font-family: 'Tangerine', cursive;
+    font-size: 2rem;
+    text-decoration: none;
+}
+footer{
+    padding-top: 10%;
+}
